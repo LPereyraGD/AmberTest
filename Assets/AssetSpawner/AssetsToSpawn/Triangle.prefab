@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 8074549885736828976}
   - component: {fileID: 6088734930844894222}
   m_Layer: 0
-  m_Name: fdsa
+  m_Name: Triangle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
